@@ -21,6 +21,5 @@ The goal of this project was to analyze the Superstore sales dataset to uncover 
 ***
 
 ### Key Insights
-* **Seasonal Sales Peaks:** Sales consistently increase during the 4th quarter (October-December), indicating a strong holiday season impact.
 * **Category Performance:** While the "Technology" category drives the most revenue, the "Office Supplies" category is the most profitable.
 * **Regional Performance:** The "West" region is the top-performing market in terms of both sales and profit.
